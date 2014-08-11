@@ -1,0 +1,1 @@
+Manifest-Version: 1.0Class-Path: lib/TencentLocationSDK_v3.1.2_r128621.jar
